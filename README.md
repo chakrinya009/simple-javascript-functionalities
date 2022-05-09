@@ -17,4 +17,4 @@
 
 8) toast-notification:  https://lambent-froyo-393ce3.netlify.app/
 
-9)zoom              :  https://papaya-halva-154566.netlify.app/
+ 9)zoom              :  https://papaya-halva-154566.netlify.app/
