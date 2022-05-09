@@ -1,0 +1,32 @@
+*{
+    margin:0;
+    padding:0;
+    box-sizing: border-box;
+}
+
+body{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+ 
+}
+
+.curasel{
+    box-shadow: 2px 3px 10px gray;
+    overflow: hidden;
+    width:500px;
+    height: 500px;
+}
+
+.image-container{
+    display: flex;
+    transition: transform 0.5s linear;
+    transform:translateX(0)
+}
+
+img{
+    width: 500px;
+    height: 500px;
+    object-fit: cover;
+}
